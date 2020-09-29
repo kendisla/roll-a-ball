@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/BasicVersion.unity
+- path: Assets/Scenes/ProBuilder and Triggers.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
